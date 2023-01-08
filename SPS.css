@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	color: white;
+}
+body{
+	background-image: radial-gradient(circle,#42275a,#cc2b5e,#ee9ca7)
+
+}
+.wrapper{
+	height:300px;
+	width: 360px;
+	color:white;
+	background: black;
+	border-radius: 1rem;
+	padding: 7rem;
+	margin: 30px auto;
+}
+.buttons{
+	padding: 3rem;
+
+}
+.rpsButton{
+	height:100px;
+	width: 85px;
+	
+}
+.rpsButton>b{
+	color: red;
+}
+.resultContainer{
+	text-align: center;
+}
+#endGameButton{
+	height: 50px;
+	width:50px;
+}
+#final>b{
+	color:red;
+}
+img{
+	height: 75px;
+	width: 70px;
+}
